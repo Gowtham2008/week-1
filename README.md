@@ -5,8 +5,12 @@
 Dataset Details:
 
 Dataset Name: PlantVillage (Resized 224×224)
+
 Source: Kaggle
+
 Link: https://www.kaggle.com/datasets/bulentsiyah/plantvillage
+
+
 
 Dataset Overview:
 
