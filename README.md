@@ -27,27 +27,41 @@ The dataset includes several plant species along with different disease types, s
 Others
 Each plant class contains images of both healthy and infected leaves, offering a diverse dataset for model training.
 
+
 Project Objective:
 
 The main goals of this system are to:
 
 Automatically identify plant diseases from leaf images using deep learning models.
+
 Provide early diagnosis to help farmers manage crop health efficiently.
+
 Contribute to the development of smart agriculture and precision farming technologies.
+
+
 
 Tools & Technologies:
 
 Python
+
 TensorFlow or PyTorch
+
 OpenCV (for image processing)
+
 NumPy & Pandas (for data handling)
+
 Matplotlib & Seaborn (for visualization)
+
+
 
 Real-World Applications:
 
 Smart agricultural monitoring systems
+
 Mobile and web-based crop disease detection platforms
+
 AI-powered farming advisory tools
+
 Research in precision agriculture and sustainable farming
 
 
